@@ -7,7 +7,7 @@
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print(" Pong game with textdraw loaded");
+	print("Loaded pong_minigame filterscript!");
 	print("--------------------------------------\n");
 	return 1;
 }

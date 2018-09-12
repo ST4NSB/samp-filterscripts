@@ -7,7 +7,7 @@
 public OnFilterScriptInit()
 {
 	print("\n--------------------------------------");
-	print("FILTERSCRIPT CARDPCOORDS LOADDED, made by sk8");
+	print("Loaded map_points filterscript!");
 	print("--------------------------------------\n");
 	return 1;
 }
