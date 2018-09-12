@@ -19,63 +19,10 @@ public OnFilterScriptExit()
 
 #else
 
-main()
-{}
+main(){}
 
 #endif
 
-
-
-
-public OnGameModeInit()
-{
-	return 1;
-}
-
-public OnGameModeExit()
-{
-	return 1;
-}
-
-public OnPlayerRequestClass(playerid, classid)
-{
-	return 1;
-}
-
-public OnPlayerConnect(playerid)
-{
-	return 1;
-}
-
-public OnPlayerDisconnect(playerid, reason)
-{
-	return 1;
-}
-
-public OnPlayerSpawn(playerid)
-{
-	return 1;
-}
-
-public OnPlayerDeath(playerid, killerid, reason)
-{
-	return 1;
-}
-
-public OnVehicleSpawn(vehicleid)
-{
-	return 1;
-}
-
-public OnVehicleDeath(vehicleid, killerid)
-{
-	return 1;
-}
-
-public OnPlayerText(playerid, text[])
-{
-	return 1;
-}
 
 #define white 0xFFFFFFFF
 #define black 0x000000FF
@@ -325,35 +272,5 @@ public OnPlayerUpdate(playerid)
 			changeColorTD(playerid,pongBoard, black, keyfound,0);
 		}
     }
-	return 1;
-}
-
-public OnPlayerStreamIn(playerid, forplayerid)
-{
-	return 1;
-}
-
-public OnPlayerStreamOut(playerid, forplayerid)
-{
-	return 1;
-}
-
-public OnVehicleStreamIn(vehicleid, forplayerid)
-{
-	return 1;
-}
-
-public OnVehicleStreamOut(vehicleid, forplayerid)
-{
-	return 1;
-}
-
-public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
-{
-	return 1;
-}
-
-public OnPlayerClickPlayer(playerid, clickedplayerid, source)
-{
 	return 1;
 }
