@@ -6,4 +6,4 @@ a collection of filterscripts made for sa:mp (good for any version)
 
 >Credits
 
-&nbsp;[@STANSB](https://github.com/ST4NSB/)
+[@STANSB](https://github.com/ST4NSB/)
