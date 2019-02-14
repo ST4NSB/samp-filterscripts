@@ -9,3 +9,33 @@
 
 ## Preview
 
+### map-points
+
+![](https://i.imgur.com/NzGtI3m.png)
+
+![](https://i.imgur.com/lfkk44B.png)
+
+![](https://i.imgur.com/J0lHwjN.png)
+
+### object-editor
+
+before
+![](https://i.imgur.com/xQOm3w2.jpg)
+
+after
+![](https://i.imgur.com/l6JWlfR.jpg)
+
+#### all objects placed ingame
+
+### pong-game
+
+![](https://i.imgur.com/E9esGHF.png)
+
+![](https://i.imgur.com/x92ZN1h.jpg)
+
+#### playing against A.I. on a visual generated window ingame
+
+
+
+
+
